@@ -1,5 +1,5 @@
 # courses
-here courses api are creted using graphql
+here courses api are created using graphql
 
 
 frontend is in react-graphql
